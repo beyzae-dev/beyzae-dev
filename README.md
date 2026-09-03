@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Beyza 👋
 
-<!--
-**beyzae-dev/beyzae-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Programming graduate** interested in software development, backend technologies, mobile application development, and data-driven projects.
 
-Here are some ideas to get you started:
+I enjoy developing projects where I can apply what I learn and improve my skills through hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Skills
+
+**Programming**
+- Python
+- C#
+- Dart
+- SQL
+
+**Web**
+- HTML
+- CSS
+- JavaScript
+
+**Mobile Development**
+- Flutter
+
+**Data & Machine Learning**
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- TensorFlow / Keras
+
+**Databases**
+- SQLite
+- SQL
+
+**Tools**
+- Git & GitHub
+- Visual Studio Code
+
+## 🚀 Featured Projects
+
+### 📚 Kitap Takip Uygulaması
+A mobile book tracking application developed with **Flutter, Dart and SQLite**.
+
+Features include book management, favorites, search, and borrowing/return tracking.
+
+### 🏖️ Tatil Tercihi Tahmin Sistemi
+A machine learning project that predicts users' **beach or mountain holiday preferences**.
+
+Includes data preprocessing, SMOTE, XGBoost, KNN, SVM, deep learning and SHAP-based model interpretation.
+
+### 🍔 Fast Food Marka Değeri Analizi
+A data analysis and machine learning project examining **consumer-based brand equity in domestic and foreign fast food brands**.
+
+Includes statistical analysis and classification models such as Logistic Regression, AdaBoost, Random Forest and Gradient Boosting.
+
+## 📚 Currently Learning
+
+- Python & Backend Development
+- Advanced Flutter Development
+- Database Technologies
+- IT & System Support Technologies
+
+## 🎯 Career Interests
+
+I'm interested in opportunities where I can continue developing my skills in:
+
+- Software Development
+- Backend Development
+- Mobile Application Development
+- IT / System Support
+
+---
+
+⭐ I use this GitHub profile to share my projects and document my development journey.
